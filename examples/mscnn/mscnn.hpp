@@ -14,7 +14,7 @@
 #include <string>
 #include <utility>
 #include <vector>
-// #include "gpu_nms.hpp"
+#include "gpu_nms.hpp"
 
 using namespace caffe;  
 using namespace std;
